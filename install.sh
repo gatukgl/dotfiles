@@ -20,6 +20,7 @@ berw cask install kitty
 # Editors
 brew cask install sublime-text
 brew cask install visual-studio-code
+brew cask install typora
 
 # Messenger
 brew cask install slack
