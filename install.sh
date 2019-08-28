@@ -32,3 +32,6 @@ brew cask install slack
 # Browser
 brew cask install google-chrome
 brew cask install firefox
+
+# Customization terminal
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
