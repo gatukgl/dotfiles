@@ -10,6 +10,10 @@ brew install node
 # Homebrew-Cask for application management
 echo "Installing brew cask..."
 brew tap caskroom/cask
+brew tab caskroom/fonts
+
+# Font with icons
+brew cask install font-hack-nerd-font
 
 # Dev tools
 brew install git
