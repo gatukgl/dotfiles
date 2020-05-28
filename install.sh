@@ -9,7 +9,7 @@ brew install node
 
 # Homebrew-Cask for application management
 echo "Installing brew cask..."
-brew tap caskroom/cask
+brew tap homebrew/cask-cask
 brew tab caskroom/fonts
 
 # Font with icons
@@ -19,7 +19,9 @@ brew cask install font-hack-nerd-font
 brew install git
 brew cask install postman
 brew cask install docker
-berw cask install kitty
+brew cask install kitty
+brew cask install insomnia
+
 
 # Editors
 brew cask install sublime-text
